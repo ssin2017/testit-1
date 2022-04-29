@@ -1,6 +1,6 @@
 Package: testit
 Type: Package
-Title: TEST A Simple Package for Testing R Packages
+Title: TEST AA Simple Package for Testing R Packages
 Version: 0.13.1
 Authors@R: c(
   person("Yihui", "Xie", role = c("aut", "cre"), email = "xie@yihui.name", comment = c(ORCID = "0000-0003-0645-5666")), 
