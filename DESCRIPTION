@@ -7,7 +7,7 @@ Authors@R: c(
   person("Steven", "Mortimer", role = "ctb", email="reportmort@gmail.com")
   )
 Description: Provides two convenience functions assert() and test_pkg() to
-    facilitate testing R packages.
+    facilitate testing R packages.SS
 License: GPL-3
 URL: https://github.com/yihui/testit
 BugReports: https://github.com/yihui/testit/issues
